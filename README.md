@@ -40,7 +40,7 @@ This is a solution to the [QR-code-component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/3column-preview-card-component-3YILZGTXL6)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qrcodecomponent-N8upsG_XsB)
 - Live Site URL: [Live Site](https://rahimi-1997.github.io/QR-code-component/)
 
 ## My process
