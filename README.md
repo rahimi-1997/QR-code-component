@@ -15,7 +15,7 @@
 <div align="center">
   <!-- Profile -->
   <a href="https://www.frontendmentor.io/profile/rahimi-1997">
-    <img src="https://img.shields.io/badge/Profile-Raha%20Rahimi-07043B?style=for-the-badge&logo=frontendmentor" alt="Raha Profile">
+    <img src="https://img.shields.io/badge/Profile-Fateme%20Rahimi-07043B?style=for-the-badge&logo=frontendmentor" alt="Fateme Profile">
   </a>
 
 </div>
